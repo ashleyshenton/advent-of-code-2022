@@ -1,0 +1,10 @@
+{
+    "name": "ashleyshenton/advent-of-code-2022",
+    "description": "Code examples for how I solved each day of the Advent of Code 2022",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "require": {
+        "php": "^8.1",
+        "illuminate/support": "^9.42"
+    }
+}
